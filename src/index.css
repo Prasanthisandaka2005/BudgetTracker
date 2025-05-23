@@ -1,0 +1,10 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  background-color: white;
+  color: black;
+}
+
+a {
+  color: rgb(42, 42, 232);
+}

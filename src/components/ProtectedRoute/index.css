@@ -1,0 +1,13 @@
+.mainContainer {
+    display: flex;
+}
+
+a {
+    color: white;
+}
+
+/* 
+.rightContainer {
+    margin-top: 2rem;
+    align-self: center;
+} */

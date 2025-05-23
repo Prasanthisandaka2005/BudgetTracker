@@ -8,7 +8,7 @@ import { getFirestore } from 'firebase/firestore'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyBw0l0iuZMJHXCbXQ74vFwNFWMe4uc6BRA",
+    apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
     authDomain: "budgettracker-a5c26.firebaseapp.com",
     projectId: "budgettracker-a5c26",
     storageBucket: "budgettracker-a5c26.firebasestorage.app",
